@@ -4,7 +4,7 @@
     font-family: 'Sunflower Light';
     font-style: normal;
     font-weight: normal;
-    src: local('Sunflower Light'), url('src/Sunflower-Light.woff') format('woff');
+    src: local('Sunflower Light'), url('Sunflower-Light.woff') format('woff');
 }
 
 
@@ -12,7 +12,7 @@
     font-family: 'Sunflower Medium';
     font-style: normal;
     font-weight: normal;
-    src: local('Sunflower Medium'), url('src/Sunflower-Medium.woff') format('woff');
+    src: local('Sunflower Medium'), url('Sunflower-Medium.woff') format('woff');
 }
 
 
